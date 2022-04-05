@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.exe
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.deps.json
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.runtimeconfig.json
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.runtimeconfig.dev.json
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.dll
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ConvertingCasting.pdb
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.AssemblyInfo.cs
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.csproj.CopyComplete
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.dll
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.pdb
+C:\Users\User\Desktop\ConvertingCasting\ConvertingCasting\obj\Debug\netcoreapp3.1\ConvertingCasting.genruntimeconfig.cache
